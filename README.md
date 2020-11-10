@@ -16,18 +16,18 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Dev. front end apaixonado por inovação
-- 👨‍🎓 Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 👨‍🎨 Gosto bastante de design
-- 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo
+- 👨‍💻 Desenvolvedor Front-end apaixonado por inovação;
+- 👨‍🎓 Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas;
+- 👨‍🎨 Gosto bastante de design;
+- 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo;
 
 <hr style="height: 1px;">
 
 <center>
 <table width="100%">
   <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooddewweb&layout=compact&show_icons=true&theme=default&hide_border=true" alt="rayanmarcus"/></td>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=wooddewweb&theme=default&show_icons=true&hide_border=true" alt="rayanmarcus"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooddewweb&layout=compact&show_icons=true&theme=default&hide_border=true" alt="wooddewweb"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=wooddewweb&theme=default&show_icons=true&hide_border=true" alt="wooddewweb"/></td>
   </tr>  
 </table>
 </center>
