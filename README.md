@@ -27,13 +27,13 @@ _______
 ## Stack atual
 
 <div style="display:flex; justify-content:flex-start; align-items:center;">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/php.png" title="PHP">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/vue.png" title="VueJS">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/html.png" title="HTML">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/js.png" title="JavaScript">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/css.png" title="CSS">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/git.png" title="Git">
-  <img height="30" src="https://raw.githubusercontent.com/wooddewweb/wooddewweb/blob/main/assets/images/icons/linux.png" title="Linux <3">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/php.png" title="PHP">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/vue.png" title="VueJS">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/html.png" title="HTML">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/js.png" title="JavaScript">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/css.png" title="CSS">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/git.png" title="Git">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/linux.png" title="Linux <3">
 </div>
 
 _______
