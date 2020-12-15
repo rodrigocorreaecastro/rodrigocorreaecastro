@@ -33,7 +33,7 @@ _______
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/js.png" title="JavaScript">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/css.png" title="CSS">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/git.png" title="Git">
-  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/linux.png" title="Linux <3">
+  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/linux.png" title="Linux">
 </div>
 
 _______
