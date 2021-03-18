@@ -28,7 +28,6 @@ _______
 
 <div style="display:flex; justify-content:flex-start; align-items:center;">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/php.png" title="PHP">
-  <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/vue.png" title="VueJS">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/html.png" title="HTML">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/js.png" title="JavaScript">
   <img height="30" src="https://github.com/wooddewweb/wooddewweb/blob/main/images/icons/css.png" title="CSS">
