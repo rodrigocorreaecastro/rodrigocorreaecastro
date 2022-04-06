@@ -27,7 +27,7 @@
 
 _______
 
-### Spotify Now Playing
+### Minha playlist no Spotify
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-4267B2?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/12150216564)](https://open.spotify.com/user/12150216564)
 
 _______
