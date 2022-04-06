@@ -20,19 +20,16 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Desenvolvedor Front-end apaixonado por inovação;
 - 👨‍🎓 Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas;
+- 👨‍💻 Desenvolvedor Front-end apaixonado por inovação;
 - 👨‍🎨 Gosto bastante de design;
-- 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo;
 
-_______
 
 ### Minha playlist no Spotify
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-4267B2?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/12150216564)](https://open.spotify.com/user/12150216564)
 
-_______
 
-## Idiomas e ferramentas:
+### Idiomas e ferramentas:
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
