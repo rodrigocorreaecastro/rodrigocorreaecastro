@@ -12,7 +12,6 @@
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -21,9 +20,10 @@
 -->
 
 - 👨‍🎓 Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas;
-- 👨‍💻 Desenvolvedor Front-end apaixonado por inovação;
-- 👨‍🎨 Gosto bastante de design;
+- 👨‍💻 Desenvolvedor Back-end e Front-end apaixonado por inovação;
+- 👨‍🎨 Curto bastante um design clean;
 
+<hr/>
 
 ### Minha playlist no Spotify
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-4267B2?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/12150216564)](https://open.spotify.com/user/12150216564)
