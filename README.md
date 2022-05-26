@@ -49,10 +49,8 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 
-<table>
-  <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro&layout=compact&show_icons=true&theme=default&hide_border=true" alt="rodrigocorreaecastro"/></td>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&theme=default&show_icons=true&hide_border=true" alt="rodrigocorreaecastro"/></td>
-  </tr>  
-</table>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro&layout=compact&langs_count=7&theme=merko" alt="rodrigocorreaecastro"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="rodrigocorreaecastro"/> 
+</div>
 
