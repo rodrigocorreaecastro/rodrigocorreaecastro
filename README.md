@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigocorreaecastro@gmail.com)](mailto:rodrigocorreaecastro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigocorreaecastro)](https://www.instagram.com/rodrigocorreaecastro)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.instagram.com/rodrigocorreaecastro)](https://www.instagram.com/rodrigocorreaecastro)
+[![Dev.io](https://img.shields.io/badge/-Dev.io-333?style=flat-square&logo=Dev.io&logoColor=white&link=https://dev.to/rodrigocorreaecastro)](https://dev.to/rodrigocorreaecastro)
 
 
 <!--
