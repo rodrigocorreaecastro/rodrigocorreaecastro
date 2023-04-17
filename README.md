@@ -57,3 +57,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="rodrigocorreaecastro"/> 
 </div>
 
+![Snake animation](https://github.com/rodrigocorreaecastro/rodrigocorreaecastro/blob/output/github-contribution-grid-snake.svg)
+
