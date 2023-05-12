@@ -55,10 +55,10 @@
   <br>
   <details>
     <summary>GitHub Stats</summary>
-    ![Rodrigo Corrêa e Castro github stats](https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=midnight-purple)
+[Rodrigo Corrêa e Castro github stats](https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=midnight-purple)
     <br />
     <br />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro)](https://github.com/rodrigocorreaecastro/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro)(https://github.com/rodrigocorreaecastro/github-readme-stats)
   </details>
   
 </div>
