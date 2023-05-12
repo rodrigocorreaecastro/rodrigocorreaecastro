@@ -53,14 +53,8 @@
 
 <div align="center">
   <br>
-  <details>
-    <summary>GitHub Stats</summary>
-[Rodrigo Corrêa e Castro github stats](https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=midnight-purple)
-    <br />
-    <br />
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro)(https://github.com/rodrigocorreaecastro/github-readme-stats)
-  </details>
-  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro&layout=compact&langs_count=7&theme=merko" alt="rodrigocorreaecastro"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="rodrigocorreaecastro"/> 
 </div>
 
 Toda e qualquer ajuda é bem vinda:
