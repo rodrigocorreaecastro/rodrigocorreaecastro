@@ -53,9 +53,16 @@
 
 <div align="center">
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro&layout=compact&langs_count=7&theme=merko" alt="rodrigocorreaecastro"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="rodrigocorreaecastro"/> 
+  <details>
+    <summary>GitHub Stats</summary>
+    ![Rodrigo Corrêa e Castro github stats](https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=midnight-purple)
+    <br />
+    <br />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocorreaecastro)](https://github.com/rodrigocorreaecastro/github-readme-stats)
+  </details>
+  
 </div>
 
 Toda e qualquer ajuda é bem vinda:
-[PIX]: https://nubank.com.br/pagar/sfq1x/k2yW6z5Slt
+
+[PIX](https://nubank.com.br/pagar/sfq1x/k2yW6z5Slt)
