@@ -1,6 +1,6 @@
-# Olá, me chamo Rodrigo Corrêa e Castro :man_technologist:
+# Olá, me chamo Rodrigo Corrêa e Castro
 
-### Entre em contato comigo:
+### Entre em contato:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigocorreaecastro)](https://github.com/rodrigocorreaecastro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigocorreaecastro/)](https://www.linkedin.com/in/rodrigocorreaecastro/)
@@ -57,6 +57,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocorreaecastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="rodrigocorreaecastro"/> 
 </div>
 
-<!--
-![Snake animation](https://github.com/rodrigocorreaecastro/rodrigocorreaecastro/blob/output/github-contribution-grid-snake.svg)
--->
+Toda e qualquer ajuda é bem vinda:
+[PIX]: https://nubank.com.br/pagar/sfq1x/k2yW6z5Slt
