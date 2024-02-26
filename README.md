@@ -29,7 +29,6 @@
 ### Minha playlist no Spotify
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-4267B2?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/12150216564)](https://open.spotify.com/user/12150216564)
 
-
 ### Idiomas e ferramentas:
 
 <div style="display: inline_block"><br>
@@ -43,13 +42,27 @@
   <img title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-  <img title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
   <img title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img title="JSON" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
   <img title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img title="Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img title="PWA" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 </div>
+
+**<h3>Estudando no Momento:</h3>**
+
+<img 
+   height="40" 
+   title="ReactJS" 
+   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img 
+   height="40" 
+   title="NextJS" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img 
+   height="40" 
+   title="TypeScript" 
+   src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 
 <div align="center">
   <br>
